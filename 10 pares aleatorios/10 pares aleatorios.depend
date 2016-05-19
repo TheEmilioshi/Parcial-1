@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1462827732 source:e:\doc\escritorio\progra 2\10 pares aleatorios\main.cpp
+	<stdlib.h>
+	<time.h>
+	<iostream>
+

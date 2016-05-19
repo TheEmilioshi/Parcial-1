@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1462921054 source:e:\doc\escritorio\progra 2\escribir numero y continuar\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
