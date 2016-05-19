@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1462063225 source:e:\doc\escritorio\progra 2\generar numero y presentar rango\main.cpp
+	<iostream>
+	<stdlib.h>
+	<ctime>
+
